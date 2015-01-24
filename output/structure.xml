@@ -1,0 +1,1267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project title="Symfony PhpDoc project" version="2.8.1">
+  <partials/>
+  <file path="vendor/doctrine/orm/bin/doctrine" generated-path="vendor.doctrine.orm.bin.doctrine.html" hash="90cb720ab018a38f80858b80a083963d" package="Default">
+    <docblock line="0">
+      <description></description>
+      <long-description></long-description>
+      <tag name="package" line="0" description="Default"/>
+    </docblock>
+    <parse_markers>
+      <error line="0" code="PPC:ERR-50000">No summary was found for this file</error>
+    </parse_markers>
+    <source>eJxTVtQvLS7ST8rM00/NK1MoyCjgsrEHkVyZeck5pSmpGuop+cklRZl5qXpAYXVNay4ArzgQjQ==</source>
+  </file>
+  <file path="vendor/doctrine/dbal/bin/doctrine-dbal" generated-path="vendor.doctrine.dbal.bin.doctrine-dbal.html" hash="fbf22e7f1fa9534cf5d43788be56a7b6" package="Default">
+    <docblock line="0">
+      <description></description>
+      <long-description></long-description>
+      <tag name="package" line="0" description="Default"/>
+    </docblock>
+    <parse_markers>
+      <error line="0" code="PPC:ERR-50000">No summary was found for this file</error>
+    </parse_markers>
+    <source>eJxTVtQvLS7ST8rM00/NK1MoyCjgsrEHkVxFqYWlmUWpCvHxLp5B8fEKegrq+in5ySVFmXmpuilJiTl6QGXq1lwAxowVLQ==</source>
+  </file>
+  <file path="vendor/doctrine/orm/bin/doctrine.php" generated-path="vendor.doctrine.orm.bin.doctrine.html" hash="72dc46cf0d9c06780336a86958dd26e3" package="Default">
+    <docblock line="0">
+      <description></description>
+      <long-description></long-description>
+      <tag name="package" line="0" description="Default"/>
+    </docblock>
+    <namespace-alias name="HelperSet">\Symfony\Component\Console\Helper\HelperSet</namespace-alias>
+    <namespace-alias name="ConsoleRunner">\Doctrine\ORM\Tools\Console\ConsoleRunner</namespace-alias>
+    <parse_markers>
+      <error line="0" code="PPC:ERR-50000">No summary was found for this file</error>
+    </parse_markers>
+    <source>eJyNVO+P4jYQ/Z6/YrqqtHDiQP26XO9qEgOWQkJtZ7eoVChLzJI22DQ/dot69793bFgIutVdI6Q49sx7896M+fBpv917g3cevAM5ZQJEPJYPhFPA9ZzH9yygAYwWeEjBj+cLziZTCdM4DCgXQKIAdyPJ2SiRMRcW5oYITL5xZyRaAP1tzqkQEHNgs3nIEA8JOIkko6IHLPLDJGDRpAeIAVEsLUjIZkxipIx7jvrrTIjHMKPcn+InGbGQyYWjHDMZWbpxzC0QgTnhkvlJSDjMEz6PBQWrL2DCDwmb0aCPNSAv0HsaSRBTEobXci1O/BBRbjW05cKIYqVkFFJL59QGjFNfWlmXlY8mYpFhzwKJOfUZrtEXiqIIX/ROsIL+mmAcHkJAZmSCGjvfdweb5CeczmztaIlIRkIymUgKkzgOnO2C8nvmUzGEMBbOuERQV0xAJHH0iILGYQSuR4lgzkIWScp5MpcsjrrY8wd0CCslmB04r+PIaj7ODo35wkJbP1w3evAwpbjPrb3ONWLtEOieL9thSIlmOmEXvRDRScgmNPKpDYgt0AMTtIvNY8IGMEeOE4G0idNum4a1uXaNr8e557oLbAwkuGe2/lM8zoNgp/Fx9vnTk/t9xHHStnkFldnUL2mpYG10lVd1BWYDz6ZodJ2WB7tbl/ljU+d4DLs0U/B4wLc+QK6z/DnPmrSoLFqqM0C8Il8rXakMGp2pEuqtAmzp63YfxqaEnUG+XG9MuUstcA8qpSzGh21d7+8Gg5eXl35m1sis1ft9af5U67pvyqePtvSB5zWVAnHYbYw+LH2z2xutdI0rXZlCLaeq2Kvy9BKqHrr44IS3jPlsKY0pqnPC6c0brVU59LzOL7leF02mVkavFaxWOPGrFfThdtDvD56Vzkw5SJvaFCbN+vg/c9uFz5/hm1nH31USMv2Y5SVqM2WuKvgZ0rJMD50nVa9fsk63B68rBDleOhzFlaB48QkuLTT2Z5M/3XYt1nE9zguFULopiqGHFqt0vYXOFVFawfn70IV/PcDnOv1y/g3uIn9/THqVY3HyDXQ2CLJS/9hx6rRwu69c9nnEyv4aus8v3hfPs3nwA3wv9apXd3d7bGntF7nvIqXa7Yu0Vp3uERhx6s5P+HHBz6sVEmfpY6HexFfrrYHbI1xTuvF0NcHvt6i5bRI68AdkBv3UpoZt+qzAIgMO3S6vKkzs25Sbpb75uhoE2uEtyi5ddy3cvs4sbpfq7wab0OYcnmV0WqG5ruoURw4v7nnmz3ouEzAJ4xEJhev+OdnHGvIMLWu3xnK8EfI2USvPjVFbwhsgw6vo1hAcB+E8Dsv/e1/v7spGt8rtwdlbtPQ/PQ9i9A==</source>
+  </file>
+  <file path="vendor/sensiolabs/security-checker/security-checker" generated-path="vendor.sensiolabs.security-checker.security-checker.html" hash="c78fdec08d098d0f0dd31e69036e54b8" package="Default">
+    <docblock line="0">
+      <description></description>
+      <long-description></long-description>
+      <tag name="package" line="0" description="Default"/>
+    </docblock>
+    <namespace-alias name="Application">\Symfony\Component\Console\Application</namespace-alias>
+    <namespace-alias name="SecurityCheckerCommand">\SensioLabs\Security\Command\SecurityCheckerCommand</namespace-alias>
+    <namespace-alias name="SecurityChecker">\SensioLabs\Security\SecurityChecker</namespace-alias>
+    <function namespace="" line="13" package="Default">
+      <name>includeIfExists</name>
+      <full_name>\includeIfExists()</full_name>
+      <docblock line="13">
+        <description></description>
+        <long-description></long-description>
+        <tag name="package" line="13" description="Default"/>
+      </docblock>
+      <argument line="0" by_reference="false">
+        <name>$file</name>
+        <default></default>
+        <type/>
+      </argument>
+    </function>
+    <parse_markers>
+      <error line="0" code="PPC:ERR-50000">No summary was found for this file</error>
+      <error line="13" code="PPC:ERR-50015">Argument $file is missing from the Docblock of includeIfExists</error>
+      <error line="13" code="PPC:ERR-50011">No summary for function ""</error>
+    </parse_markers>
+    <source>eJyNU21v2jAQ/u5fcdVQEyqatN23shdNjGpIaEVjXyYhRSa5EG/GtvwCRVv/+84BItSxaVGUOHf3PM/Z9+TVRR6czZdC5ag2YBrD3ryPT5ZfMbiCr41wUAuJQG/DrQddg28Q5qic0FO+dLQsgxV+B6MGyx9oMwJGbFr24e7m9jU88KVABTPtUZUC7SH/oG1LVQcpodRmZ8Wq8cBVBVKUxE+iqtZ2zb3QagBGIqfYRuC2xU0no/Hn+ThStR36hnvYcgeVcN6KZfBYwVb4hjLUvdPBlkhCFcYOc8bqoMpITTKlDBVO6vETQV3ai3x99pMBXaKGNH4XeJrswz4bL4s+2I4F2oJhm31mz4xFgvSiJzWv0MLbP9SK4uPkS1FkSb5BVWmb8+B1rM5oEAkpXV7C/+GzLN4v4MdOK4Fp8k0HWAfnwaGHYNpzNFZ/x9JDhYb02xG5Adig9tPRUuqtUCs6ufWahuPuk2z2aVaMH6dZdwQJWUDCtZtD471x93m+Qk8Aox0ZQttVLpTzXErawa9os3McFIYOYxpu4QDqivvDeKCBXDDfrWutdotRrFeoPK2U0xIXH4wh+7SeGe5LO6sujlaNsLiXLnCw7iH8d9yL+iFjvXKvS4NRZMwT9TT5x0+SDCC5zW4S2tGR4fodr6o0kpzv6lwqpfmeMtDUUgr8BkAzRp8=</source>
+  </file>
+  <file path="src/Blogger/BlogBundle/Controller/DefaultController.php" generated-path="src.Blogger.BlogBundle.Controller.DefaultController.html" hash="d425891ce2539261fbad40a19d5aec86" package="Default">
+    <docblock line="0">
+      <description></description>
+      <long-description></long-description>
+      <tag name="package" line="0" description="Default"/>
+    </docblock>
+    <namespace-alias name="Controller">\Symfony\Bundle\FrameworkBundle\Controller\Controller</namespace-alias>
+    <class final="false" abstract="false" namespace="Blogger\BlogBundle\Controller" line="7" package="Default">
+      <extends>\Symfony\Bundle\FrameworkBundle\Controller\Controller</extends>
+      <name>DefaultController</name>
+      <full_name>\Blogger\BlogBundle\Controller\DefaultController</full_name>
+      <docblock line="7">
+        <description></description>
+        <long-description></long-description>
+        <tag name="package" line="7" description="Default"/>
+      </docblock>
+      <method final="false" abstract="false" static="false" visibility="public" namespace="Blogger\BlogBundle\Controller" line="9" package="Default">
+        <name>indexAction</name>
+        <full_name>\Blogger\BlogBundle\Controller\DefaultController::indexAction()</full_name>
+        <docblock line="9">
+          <description></description>
+          <long-description></long-description>
+        </docblock>
+        <argument line="0" by_reference="false">
+          <name>$name</name>
+          <default></default>
+          <type/>
+        </argument>
+      </method>
+    </class>
+    <parse_markers>
+      <error line="0" code="PPC:ERR-50000">No summary was found for this file</error>
+      <error line="7" code="PPC:ERR-50005">No summary for class ""</error>
+      <error line="9" code="PPC:ERR-50015">Argument $name is missing from the Docblock of indexAction</error>
+      <error line="9" code="PPC:ERR-50008">No summary for method ""</error>
+    </parse_markers>
+    <source>eJxlT8sOgkAMvO9X9EACJsoH+MCIxh/wymWFAhuXLunuBonx3wUkIcZe2nSm05n9sa1bIUg2aFuZI6TaVBVyNvbUU6ExOxtybLRG3gnhLcKtb0pDfTbjVx6uO8OPP/7vaa6ltXDBUnrtFgTw6ZAKC8tKvAQM1fq7VjmUnnKnDIGiAp+naY6C0fJqon3JYzE6zwSBq5XdJDyoIkfhHGlJtJ09bCfBuHaNjl2nqnANkln2UTiKh3BI4PtmtZtevMVbfADEM2lp</source>
+  </file>
+  <file path="src/Blogger/BlogBundle/Controller/PageController.php" generated-path="src.Blogger.BlogBundle.Controller.PageController.html" hash="c8c353a5090a6fb61689f5544cc6c8f6" package="Default">
+    <docblock line="0">
+      <description></description>
+      <long-description></long-description>
+      <tag name="package" line="0" description="Default"/>
+    </docblock>
+    <namespace-alias name="Controller">\Symfony\Bundle\FrameworkBundle\Controller\Controller</namespace-alias>
+    <class final="false" abstract="false" namespace="Blogger\BlogBundle\Controller" line="8" package="Default">
+      <extends>\Symfony\Bundle\FrameworkBundle\Controller\Controller</extends>
+      <name>PageController</name>
+      <full_name>\Blogger\BlogBundle\Controller\PageController</full_name>
+      <docblock line="8">
+        <description></description>
+        <long-description></long-description>
+        <tag name="package" line="8" description="Default"/>
+      </docblock>
+      <method final="false" abstract="false" static="false" visibility="public" namespace="Blogger\BlogBundle\Controller" line="13" package="Default">
+        <name>indexAction</name>
+        <full_name>\Blogger\BlogBundle\Controller\PageController::indexAction()</full_name>
+        <docblock line="13">
+          <description></description>
+          <long-description></long-description>
+          <tag name="return" line="13" description="" type="\Symfony\Component\HttpFoundation\Response">
+            <type>\Symfony\Component\HttpFoundation\Response</type>
+          </tag>
+        </docblock>
+      </method>
+      <method final="false" abstract="false" static="false" visibility="public" namespace="Blogger\BlogBundle\Controller" line="21" package="Default">
+        <name>aboutAction</name>
+        <full_name>\Blogger\BlogBundle\Controller\PageController::aboutAction()</full_name>
+        <docblock line="21">
+          <description></description>
+          <long-description></long-description>
+          <tag name="return" line="21" description="" type="\Symfony\Component\HttpFoundation\Response">
+            <type>\Symfony\Component\HttpFoundation\Response</type>
+          </tag>
+        </docblock>
+      </method>
+      <method final="false" abstract="false" static="false" visibility="public" namespace="Blogger\BlogBundle\Controller" line="29" package="Default">
+        <name>contactAction</name>
+        <full_name>\Blogger\BlogBundle\Controller\PageController::contactAction()</full_name>
+        <docblock line="29">
+          <description></description>
+          <long-description></long-description>
+          <tag name="return" line="29" description="" type="\Symfony\Component\HttpFoundation\Response">
+            <type>\Symfony\Component\HttpFoundation\Response</type>
+          </tag>
+        </docblock>
+      </method>
+    </class>
+    <parse_markers>
+      <error line="0" code="PPC:ERR-50000">No summary was found for this file</error>
+      <error line="8" code="PPC:ERR-50005">No summary for class ""</error>
+      <error line="13" code="PPC:ERR-50008">No summary for method ""</error>
+      <error line="21" code="PPC:ERR-50008">No summary for method ""</error>
+      <error line="29" code="PPC:ERR-50008">No summary for method ""</error>
+    </parse_markers>
+    <source>eJzFU1FvmzAQfudX3EMlIErCe7tkW6tFe5kWpVmfkCqHXMAa2PRslqKp/32HgUDa7GXaNAvJxr777vt8n9+9L7PSiyIwlES3uU5TJDffVmqfY3SnlSWd57y7FikOv/Mmz1OiQFOKBKHLjYfceAi+8bzKINzXxUGrOu7OV8TZR03f38Sfpya5MAbOywM+W1R7A8OW99MDHtFk4maYwAdCW5GCuC98p4tSK1Q2/mxtudJcV1ipVbxhFVoZ7DIjN5fVLpcJHCqVNEEg1R6fP7p1ELqItmIzukpXNpNmtiSmhhT43aUMd3LdqLh2QPPMFvncHmXqhzcO58X7xwLETlf2bwhwQP9BQMLNFsnvJFyheqok1bAAhUf41P4FHTkXcdBU8HGnMiEUFle8F4wStnWJQTg9wXH+AED4VKGxA0aKdtPujQvJAwR9rIv5gjbT+yCExQL89df7rR+OmJ+4zZY7NkcP2COMGZzQ23BpHkQuGfg1nGtEBGskp9noAkG4e5uCqZIMhAHDXZYqBaEACyFz7xLCBveSMLEwgy0rhubjHpIVyoLVUBL+4H4CP3AybKNZqY1l1EtYNkNwdFgBr2sOPxCazB2U7Kw3Sa9t2XIJTpevkLiF3yi/4NXHzi5+OOpM69Nh9WcPoEMePYEpCCJRB2eF/EasD4tl393WcQ8Sj517m8H0Wi4vvwCXZraJ</source>
+  </file>
+  <file path="src/Blogger/BlogBundle/Entity/Enquiry.php" generated-path="src.Blogger.BlogBundle.Entity.Enquiry.html" hash="93b2d6e99e11aaf58f2778e2fee5b3c0" package="Default">
+    <docblock line="0">
+      <description></description>
+      <long-description></long-description>
+      <tag name="package" line="0" description="Default"/>
+    </docblock>
+    <class final="false" abstract="false" namespace="Blogger\BlogBundle\Entity" line="4" package="Default">
+      <extends/>
+      <name>Enquiry</name>
+      <full_name>\Blogger\BlogBundle\Entity\Enquiry</full_name>
+      <docblock line="4">
+        <description></description>
+        <long-description></long-description>
+        <tag name="package" line="4" description="Default"/>
+      </docblock>
+      <property static="false" visibility="protected" namespace="Blogger\BlogBundle\Entity" line="6" package="Default">
+        <name>$name</name>
+        <full_name>\Blogger\BlogBundle\Entity\Enquiry::name</full_name>
+        <default></default>
+        <docblock line="6">
+          <description></description>
+          <long-description></long-description>
+        </docblock>
+      </property>
+      <property static="false" visibility="protected" namespace="Blogger\BlogBundle\Entity" line="8" package="Default">
+        <name>$email</name>
+        <full_name>\Blogger\BlogBundle\Entity\Enquiry::email</full_name>
+        <default></default>
+        <docblock line="8">
+          <description></description>
+          <long-description></long-description>
+        </docblock>
+      </property>
+      <property static="false" visibility="protected" namespace="Blogger\BlogBundle\Entity" line="10" package="Default">
+        <name>$subject</name>
+        <full_name>\Blogger\BlogBundle\Entity\Enquiry::subject</full_name>
+        <default></default>
+        <docblock line="10">
+          <description></description>
+          <long-description></long-description>
+        </docblock>
+      </property>
+      <property static="false" visibility="protected" namespace="Blogger\BlogBundle\Entity" line="12" package="Default">
+        <name>$body</name>
+        <full_name>\Blogger\BlogBundle\Entity\Enquiry::body</full_name>
+        <default></default>
+        <docblock line="12">
+          <description></description>
+          <long-description></long-description>
+        </docblock>
+      </property>
+      <method final="false" abstract="false" static="false" visibility="public" namespace="Blogger\BlogBundle\Entity" line="14" package="Default">
+        <name>getName</name>
+        <full_name>\Blogger\BlogBundle\Entity\Enquiry::getName()</full_name>
+        <docblock line="14">
+          <description></description>
+          <long-description></long-description>
+        </docblock>
+      </method>
+      <method final="false" abstract="false" static="false" visibility="public" namespace="Blogger\BlogBundle\Entity" line="19" package="Default">
+        <name>setName</name>
+        <full_name>\Blogger\BlogBundle\Entity\Enquiry::setName()</full_name>
+        <docblock line="19">
+          <description></description>
+          <long-description></long-description>
+        </docblock>
+        <argument line="0" by_reference="false">
+          <name>$name</name>
+          <default></default>
+          <type/>
+        </argument>
+      </method>
+      <method final="false" abstract="false" static="false" visibility="public" namespace="Blogger\BlogBundle\Entity" line="24" package="Default">
+        <name>getEmail</name>
+        <full_name>\Blogger\BlogBundle\Entity\Enquiry::getEmail()</full_name>
+        <docblock line="24">
+          <description></description>
+          <long-description></long-description>
+        </docblock>
+      </method>
+      <method final="false" abstract="false" static="false" visibility="public" namespace="Blogger\BlogBundle\Entity" line="29" package="Default">
+        <name>setEmail</name>
+        <full_name>\Blogger\BlogBundle\Entity\Enquiry::setEmail()</full_name>
+        <docblock line="29">
+          <description></description>
+          <long-description></long-description>
+        </docblock>
+        <argument line="0" by_reference="false">
+          <name>$email</name>
+          <default></default>
+          <type/>
+        </argument>
+      </method>
+      <method final="false" abstract="false" static="false" visibility="public" namespace="Blogger\BlogBundle\Entity" line="34" package="Default">
+        <name>getSubject</name>
+        <full_name>\Blogger\BlogBundle\Entity\Enquiry::getSubject()</full_name>
+        <docblock line="34">
+          <description></description>
+          <long-description></long-description>
+        </docblock>
+      </method>
+      <method final="false" abstract="false" static="false" visibility="public" namespace="Blogger\BlogBundle\Entity" line="39" package="Default">
+        <name>setSubject</name>
+        <full_name>\Blogger\BlogBundle\Entity\Enquiry::setSubject()</full_name>
+        <docblock line="39">
+          <description></description>
+          <long-description></long-description>
+        </docblock>
+        <argument line="0" by_reference="false">
+          <name>$subject</name>
+          <default></default>
+          <type/>
+        </argument>
+      </method>
+      <method final="false" abstract="false" static="false" visibility="public" namespace="Blogger\BlogBundle\Entity" line="44" package="Default">
+        <name>getBody</name>
+        <full_name>\Blogger\BlogBundle\Entity\Enquiry::getBody()</full_name>
+        <docblock line="44">
+          <description></description>
+          <long-description></long-description>
+        </docblock>
+      </method>
+      <method final="false" abstract="false" static="false" visibility="public" namespace="Blogger\BlogBundle\Entity" line="49" package="Default">
+        <name>setBody</name>
+        <full_name>\Blogger\BlogBundle\Entity\Enquiry::setBody()</full_name>
+        <docblock line="49">
+          <description></description>
+          <long-description></long-description>
+        </docblock>
+        <argument line="0" by_reference="false">
+          <name>$body</name>
+          <default></default>
+          <type/>
+        </argument>
+      </method>
+    </class>
+    <parse_markers>
+      <error line="0" code="PPC:ERR-50000">No summary was found for this file</error>
+      <error line="4" code="PPC:ERR-50005">No summary for class ""</error>
+      <error line="14" code="PPC:ERR-50008">No summary for method ""</error>
+      <error line="19" code="PPC:ERR-50015">Argument $name is missing from the Docblock of setName</error>
+      <error line="19" code="PPC:ERR-50008">No summary for method ""</error>
+      <error line="24" code="PPC:ERR-50008">No summary for method ""</error>
+      <error line="29" code="PPC:ERR-50015">Argument $email is missing from the Docblock of setEmail</error>
+      <error line="29" code="PPC:ERR-50008">No summary for method ""</error>
+      <error line="34" code="PPC:ERR-50008">No summary for method ""</error>
+      <error line="39" code="PPC:ERR-50015">Argument $subject is missing from the Docblock of setSubject</error>
+      <error line="39" code="PPC:ERR-50008">No summary for method ""</error>
+      <error line="44" code="PPC:ERR-50008">No summary for method ""</error>
+      <error line="49" code="PPC:ERR-50015">Argument $body is missing from the Docblock of setBody</error>
+      <error line="49" code="PPC:ERR-50008">No summary for method ""</error>
+      <error line="6" code="PPC:ERR-50007">No summary for property $name</error>
+      <error line="8" code="PPC:ERR-50007">No summary for property $email</error>
+      <error line="10" code="PPC:ERR-50007">No summary for property $subject</error>
+      <error line="12" code="PPC:ERR-50007">No summary for property $body</error>
+    </parse_markers>
+    <source>eJyNkrsOgjAUhvc+RQcGHXwCbwkJq4urC5Qj1JSCvQzE8O72tGAMCNil5Pzk69dzejg3ZUNkWoFuUgY0FnVRgLrhHluZC7gl0nDT7glhItWaJvJpuWrJi1C3GlUbYAZyGiHE/TWqQpVyMS1rmz3c5zTI6rwdqjYTnNG7lczwWtICzMWdsdn6NJyPS4GxStLIlFzvTkED691vjO4xXnjM+oLQ43CnBZhzSvCGK1J9F5atAih0bMbLZyi2DnRm19DkFbfPKJbtBtgwuhnDPkXHf8DOMnYTX1EMj2LZz2P885kxwwi1vmHdGzVP350=</source>
+  </file>
+  <file path="src/Blogger/BlogBundle/BloggerBlogBundle.php" generated-path="src.Blogger.BlogBundle.BloggerBlogBundle.html" hash="c244ca11abf6e2c95b2664b2af3949f5" package="Default">
+    <docblock line="0">
+      <description></description>
+      <long-description></long-description>
+      <tag name="package" line="0" description="Default"/>
+    </docblock>
+    <namespace-alias name="Bundle">\Symfony\Component\HttpKernel\Bundle\Bundle</namespace-alias>
+    <class final="false" abstract="false" namespace="Blogger\BlogBundle" line="7" package="Default">
+      <extends>\Symfony\Component\HttpKernel\Bundle\Bundle</extends>
+      <name>BloggerBlogBundle</name>
+      <full_name>\Blogger\BlogBundle\BloggerBlogBundle</full_name>
+      <docblock line="7">
+        <description></description>
+        <long-description></long-description>
+        <tag name="package" line="7" description="Default"/>
+      </docblock>
+    </class>
+    <parse_markers>
+      <error line="0" code="PPC:ERR-50000">No summary was found for this file</error>
+      <error line="7" code="PPC:ERR-50005">No summary for class ""</error>
+    </parse_markers>
+    <source>eJyzsS/IKODiykvMTS0uSExOVXDKyU9PTy2KAdFOpXkpOanWXFylxakKwZW5afl5lTHO+bkF+XmpeSUxHiUlBd6pRXmpOTEQlTFwDck5icXFMLMQRimkVpSk5qUAZcBcrmquWi4ACssu+g==</source>
+  </file>
+  <file path="src/Blogger/BlogBundle/DependencyInjection/BloggerBlogExtension.php" generated-path="src.Blogger.BlogBundle.DependencyInjection.BloggerBlogExtension.html" hash="81c71436604c32ca5d755cc98d35a889" package="Default">
+    <docblock line="0">
+      <description></description>
+      <long-description></long-description>
+      <tag name="package" line="0" description="Default"/>
+    </docblock>
+    <namespace-alias name="ContainerBuilder">\Symfony\Component\DependencyInjection\ContainerBuilder</namespace-alias>
+    <namespace-alias name="FileLocator">\Symfony\Component\Config\FileLocator</namespace-alias>
+    <namespace-alias name="Extension">\Symfony\Component\HttpKernel\DependencyInjection\Extension</namespace-alias>
+    <namespace-alias name="Loader">\Symfony\Component\DependencyInjection\Loader</namespace-alias>
+    <class final="false" abstract="false" namespace="Blogger\BlogBundle\DependencyInjection" line="15" package="Default">
+      <extends>\Symfony\Component\HttpKernel\DependencyInjection\Extension</extends>
+      <name>BloggerBlogExtension</name>
+      <full_name>\Blogger\BlogBundle\DependencyInjection\BloggerBlogExtension</full_name>
+      <docblock line="15">
+        <description>This is the class that loads and manages your bundle configuration</description>
+        <long-description>To learn more see [http://symfony.com/doc/current/cookbook/bundles/extension.html](http://symfony.com/doc/current/cookbook/bundles/extension.html)</long-description>
+        <tag name="package" line="15" description="Default"/>
+      </docblock>
+      <method final="false" abstract="false" static="false" visibility="public" namespace="Blogger\BlogBundle\DependencyInjection" line="20" package="Default">
+        <name>load</name>
+        <full_name>\Blogger\BlogBundle\DependencyInjection\BloggerBlogExtension::load()</full_name>
+        <docblock line="20">
+          <description>{@inheritdoc}</description>
+          <long-description></long-description>
+        </docblock>
+        <argument line="0" by_reference="false">
+          <name>$configs</name>
+          <default></default>
+          <type>array</type>
+        </argument>
+        <argument line="0" by_reference="false">
+          <name>$container</name>
+          <default></default>
+          <type>\Symfony\Component\DependencyInjection\ContainerBuilder</type>
+        </argument>
+      </method>
+    </class>
+    <parse_markers>
+      <error line="0" code="PPC:ERR-50000">No summary was found for this file</error>
+      <error line="20" code="PPC:ERR-50015">Argument $configs is missing from the Docblock of load</error>
+      <error line="20" code="PPC:ERR-50015">Argument $container is missing from the Docblock of load</error>
+    </parse_markers>
+    <source>eJyNUk1v2zAMvetX8BAgH0ite7N1RdoNLdZTt8sAA4EiM7FamTIkea1R5L+PltI0KVpghA3Z1NPje6S+fGvrVghSDYZWaYSlddst+nJYlx1VFstrbJEqJN3f0gPqaBwthOgCwq++2TjqyyvXtI6Q4kdY3qWoDKFfdsZW6BefnGXcxmzLH8bindMquk+RNzG2P9ET2g8Lfn+OSCHJ/H+Vd04lbULOZgJm8Ls2AfiJNYK2KgxfKoJlWABFFTSK1BYD9K7zsE6tAp0sdF4NlMySiBxYVJ6gcR4hIMLLpTX0CDW7OJcyZHmFdo2snJa6855FSu3c45pfmbmDxFdbRR0bu2NuKbKy/dCG5eAdEpy1HjLiRQBH8jfEjIUYqtGbyHV3+6RMa9utrdGw6Sh1J9meKO9VD6NsMszh/WDTVs5ME0suOMTopDPwFQif4Oo4N5ku3qMZNoo8hrOL1juNIZweOOWcH4Qx0RuTTWPdF8wzLv+oxuZbNvxO3lTPE+roAk5Wq+vb+9WqGMuikPcYeNYsROZK4+mx5lzp7CK1ahzQ/zUMLfrGjvewndiJf1nML1Q=</source>
+  </file>
+  <file path="src/Blogger/BlogBundle/DependencyInjection/Configuration.php" generated-path="src.Blogger.BlogBundle.DependencyInjection.Configuration.html" hash="5a9da93f6cb2eeea8faed7c45ee2b7d9" package="Default">
+    <docblock line="0">
+      <description></description>
+      <long-description></long-description>
+      <tag name="package" line="0" description="Default"/>
+    </docblock>
+    <namespace-alias name="TreeBuilder">\Symfony\Component\Config\Definition\Builder\TreeBuilder</namespace-alias>
+    <namespace-alias name="ConfigurationInterface">\Symfony\Component\Config\Definition\ConfigurationInterface</namespace-alias>
+    <class final="false" abstract="false" namespace="Blogger\BlogBundle\DependencyInjection" line="13" package="Default">
+      <extends/>
+      <implements>\Symfony\Component\Config\Definition\ConfigurationInterface</implements>
+      <name>Configuration</name>
+      <full_name>\Blogger\BlogBundle\DependencyInjection\Configuration</full_name>
+      <docblock line="13">
+        <description>This is the class that validates and merges configuration from your app/config files</description>
+        <long-description>To learn more see [http://symfony.com/doc/current/cookbook/bundles/extension.html#cookbook-bundles-extension-config-class](http://symfony.com/doc/current/cookbook/bundles/extension.html#cookbook-bundles-extension-config-class)</long-description>
+        <tag name="package" line="13" description="Default"/>
+      </docblock>
+      <method final="false" abstract="false" static="false" visibility="public" namespace="Blogger\BlogBundle\DependencyInjection" line="18" package="Default">
+        <name>getConfigTreeBuilder</name>
+        <full_name>\Blogger\BlogBundle\DependencyInjection\Configuration::getConfigTreeBuilder()</full_name>
+        <docblock line="18">
+          <description>{@inheritdoc}</description>
+          <long-description></long-description>
+        </docblock>
+      </method>
+    </class>
+    <parse_markers>
+      <error line="0" code="PPC:ERR-50000">No summary was found for this file</error>
+    </parse_markers>
+    <source>eJyNUk1v2zAMvftXEFiBdgES3Zd9Id1hvezSHgMMskXbWiVR0Ee7oMh/HyWlibtTBRmiRfKJfI+fv/nZd52TFqOXA8LO0DRh2Jdzl50yuP+BHp1CNxzu3B8ckia37bocEe4PdiR32N+S9eTQJbbcqCdOGbXTJXK/y9ooBnwIiCd7++7kdpODLH93LmEYuUh+XaxWHazgYdYReKcZYTAyFksmeJJGK5kwgnQKLIaJzWGJBWMgCwfKAaT3ovlg1AYj41ZoAoMyOLAUECIivHw32j3CnJL/JERs5W8GskLRIIYcAjfBUPTY8yf6yl4U+Dehi/zmZk7WfHj1r0/+9dm/blWsayNHrkF0rac3LIC23qDlp/5znOnpXjrgVSkqa8WVazdj0IkLPZ4uRT197o0eYMyu6goTpga6kOvmYw1tqGVdpYsTvoDDZ3gTvr1EBqL0ixRy2DJr/bU4bq77Nm2/y3nNeedEIeAnMu+sEMSZslGgylhgldrLwAPL7Z70lhwpjaFnVJBoCfIqOjatG+cbuMcGxHzkQmVjtsjLCLKnJ4SRwhKoToF2fGtbMO/6diKvh82l8oAp89Qsu218HLtj9w9ntiqS</source>
+  </file>
+  <file path="src/Blogger/BlogBundle/Form/EnquiryType.php" generated-path="src.Blogger.BlogBundle.Form.EnquiryType.html" hash="83db29b31143aeed1e128a17fcca68fa" package="Default">
+    <docblock line="0">
+      <description></description>
+      <long-description></long-description>
+      <tag name="package" line="0" description="Default"/>
+    </docblock>
+    <namespace-alias name="AbstractType">\Symfony\Component\Form\AbstractType</namespace-alias>
+    <namespace-alias name="FormBuilderInterface">\Symfony\Component\Form\FormBuilderInterface</namespace-alias>
+    <class final="false" abstract="false" namespace="Blogger\BlogBundle\Form" line="9" package="Default">
+      <extends>\Symfony\Component\Form\AbstractType</extends>
+      <name>EnquiryType</name>
+      <full_name>\Blogger\BlogBundle\Form\EnquiryType</full_name>
+      <docblock line="9">
+        <description></description>
+        <long-description></long-description>
+        <tag name="package" line="9" description="Default"/>
+      </docblock>
+      <method final="false" abstract="false" static="false" visibility="public" namespace="Blogger\BlogBundle\Form" line="11" package="Default">
+        <name>buildForm</name>
+        <full_name>\Blogger\BlogBundle\Form\EnquiryType::buildForm()</full_name>
+        <docblock line="11">
+          <description></description>
+          <long-description></long-description>
+        </docblock>
+        <argument line="0" by_reference="false">
+          <name>$builder</name>
+          <default></default>
+          <type>\Symfony\Component\Form\FormBuilderInterface</type>
+        </argument>
+        <argument line="0" by_reference="false">
+          <name>$options</name>
+          <default></default>
+          <type>array</type>
+        </argument>
+      </method>
+      <method final="false" abstract="false" static="false" visibility="public" namespace="Blogger\BlogBundle\Form" line="19" package="Default">
+        <name>getName</name>
+        <full_name>\Blogger\BlogBundle\Form\EnquiryType::getName()</full_name>
+        <docblock line="19">
+          <description></description>
+          <long-description></long-description>
+        </docblock>
+      </method>
+    </class>
+    <parse_markers>
+      <error line="0" code="PPC:ERR-50000">No summary was found for this file</error>
+      <error line="9" code="PPC:ERR-50005">No summary for class ""</error>
+      <error line="11" code="PPC:ERR-50015">Argument $builder is missing from the Docblock of buildForm</error>
+      <error line="11" code="PPC:ERR-50015">Argument $options is missing from the Docblock of buildForm</error>
+      <error line="11" code="PPC:ERR-50008">No summary for method ""</error>
+      <error line="19" code="PPC:ERR-50008">No summary for method ""</error>
+    </parse_markers>
+    <source>eJx9kM9OwzAMxu95Ch8mtZMGfYAiEEUgceECx17yx92K0iQ4iUSE9u4k3SomtM2HxIq/7xfbdw9u51jTgCfZdNput0jz3UWjNDYvlqbm2XzFkdJHcnhb5MzwCb3jEuFo6f8sfbG0jEWP8J6mwZrUP9nJWYMmzMX+UfhAXIYCbK8Jy9HFUSukVxOQhvxlRkvNvYeTrgC/Axrl4ZTMfhjkcFHoUcIQjQyjNSAKr4Drc3RYicPLBjgRT7Cyrtj8eoYdkCUW3c09V6quykaqdXupjBMfdbWBY3JZ6KP4RBmuKIRVqZBCnpkT8kW6Z2fH3WJ4y73V//snDJEMVNKakBdWLZD9L10tq9w=</source>
+  </file>
+  <file path="src/Blogger/BlogBundle/Tests/Controller/DefaultControllerTest.php" generated-path="src.Blogger.BlogBundle.Tests.Controller.DefaultControllerTest.html" hash="5d0f455ddd6357ed0728b718617a7e82" package="Default">
+    <docblock line="0">
+      <description></description>
+      <long-description></long-description>
+      <tag name="package" line="0" description="Default"/>
+    </docblock>
+    <namespace-alias name="WebTestCase">\Symfony\Bundle\FrameworkBundle\Test\WebTestCase</namespace-alias>
+    <class final="false" abstract="false" namespace="Blogger\BlogBundle\Tests\Controller" line="7" package="Default">
+      <extends>\Symfony\Bundle\FrameworkBundle\Test\WebTestCase</extends>
+      <name>DefaultControllerTest</name>
+      <full_name>\Blogger\BlogBundle\Tests\Controller\DefaultControllerTest</full_name>
+      <docblock line="7">
+        <description></description>
+        <long-description></long-description>
+        <tag name="package" line="7" description="Default"/>
+      </docblock>
+      <method final="false" abstract="false" static="false" visibility="public" namespace="Blogger\BlogBundle\Tests\Controller" line="9" package="Default">
+        <name>testIndex</name>
+        <full_name>\Blogger\BlogBundle\Tests\Controller\DefaultControllerTest::testIndex()</full_name>
+        <docblock line="9">
+          <description></description>
+          <long-description></long-description>
+        </docblock>
+      </method>
+    </class>
+    <parse_markers>
+      <error line="0" code="PPC:ERR-50000">No summary was found for this file</error>
+      <error line="7" code="PPC:ERR-50005">No summary for class ""</error>
+      <error line="9" code="PPC:ERR-50008">No summary for method ""</error>
+    </parse_markers>
+    <source>eJxVj0FPwzAMhe/5FdaElFaiGucCRVphwJlKXHpJU3eNSJOSONomtP9Osg1t+GLJ773P9sPTPM6MGTGhn4VEWGm72aBrU18F02tsG/Tk29oaclZrdPeMBY/wsZ8Ga/bt2bV2kbG17usq1X5il3otPMaU1MJ7eMZBBE0XXnIA7ghN7+EqwX4YxJpDp5WEIRhJyhqgKL+bHndZftRPrlQ3Uis0BI/gSZCSZSkdCsL6OM7yeMLF6sQ27o7ec6qoHH6HyM7460vDb4EvR9TaLteiizr/l6ZR+aKK36CjxgXM/nhFNShN6DI+0qRLGZ8Uyvhs8ZZYcGItcp4XlbQhHQUV3EV2wh7Ygf0CiYyDIg==</source>
+  </file>
+  <file path="src/AppBundle/Controller/DefaultController.php" generated-path="src.AppBundle.Controller.DefaultController.html" hash="34098851b46c0c76b5d3152a10d5c9e0" package="Default">
+    <docblock line="0">
+      <description></description>
+      <long-description></long-description>
+      <tag name="package" line="0" description="Default"/>
+    </docblock>
+    <namespace-alias name="Route">\Sensio\Bundle\FrameworkExtraBundle\Configuration\Route</namespace-alias>
+    <namespace-alias name="Controller">\Symfony\Bundle\FrameworkBundle\Controller\Controller</namespace-alias>
+    <class final="false" abstract="false" namespace="AppBundle\Controller" line="8" package="Default">
+      <extends>\Symfony\Bundle\FrameworkBundle\Controller\Controller</extends>
+      <name>DefaultController</name>
+      <full_name>\AppBundle\Controller\DefaultController</full_name>
+      <docblock line="8">
+        <description></description>
+        <long-description></long-description>
+        <tag name="package" line="8" description="Default"/>
+      </docblock>
+      <method final="false" abstract="false" static="false" visibility="public" namespace="AppBundle\Controller" line="13" package="Default">
+        <name>indexAction</name>
+        <full_name>\AppBundle\Controller\DefaultController::indexAction()</full_name>
+        <docblock line="13">
+          <description></description>
+          <long-description></long-description>
+          <tag name="Route" line="13" description="(&quot;/app/example&quot;, name=&quot;homepage&quot;)"/>
+        </docblock>
+      </method>
+    </class>
+    <parse_markers>
+      <error line="0" code="PPC:ERR-50000">No summary was found for this file</error>
+      <error line="8" code="PPC:ERR-50005">No summary for class ""</error>
+      <error line="13" code="PPC:ERR-50008">No summary for method ""</error>
+    </parse_markers>
+    <source>eJxlj8tqw0AMRffzFcIE4pg0/gD3lb4+oN16M7Vle+iMRsyDOJT8e+1xwJRoIyHdw9W9f+KBhSBp0LNsEI7ML5FajfWrpeCs1ugqIaJH+ELyytbX84ebmJN1P+9jcHJlOtVHJ4OyVH/aGLBa2LPpLJ1v4Buv/7aNlt7DG3Yy6rBeAMeA1HpYV+JXwFRlUaQOBTwn+zwrJXOJozSsMdvDHPUhG6xBlj1mu6u8TJ3jt1YNdJGaOQEoanE8pjlflIvNXA5DdASbMCh/9+imf9Dl23b5tUzkYQhGH8JJ9dtdlcCLuIg/qhJ9ug==</source>
+  </file>
+  <file path="src/AppBundle/AppBundle.php" generated-path="src.AppBundle.AppBundle.html" hash="260948a66c227ee519ed576a6972b078" package="Default">
+    <docblock line="0">
+      <description></description>
+      <long-description></long-description>
+      <tag name="package" line="0" description="Default"/>
+    </docblock>
+    <namespace-alias name="Bundle">\Symfony\Component\HttpKernel\Bundle\Bundle</namespace-alias>
+    <class final="false" abstract="false" namespace="AppBundle" line="7" package="Default">
+      <extends>\Symfony\Component\HttpKernel\Bundle\Bundle</extends>
+      <name>AppBundle</name>
+      <full_name>\AppBundle\AppBundle</full_name>
+      <docblock line="7">
+        <description></description>
+        <long-description></long-description>
+        <tag name="package" line="7" description="Default"/>
+      </docblock>
+    </class>
+    <parse_markers>
+      <error line="0" code="PPC:ERR-50000">No summary was found for this file</error>
+      <error line="7" code="PPC:ERR-50005">No summary for class ""</error>
+    </parse_markers>
+    <source>eJxFjDEKgDAQBPt7Rf6hIGojWNqmCXHFIrkcXgIG8e8WgpYDM9N2sgsRuwgV52F6kaHwGtAQFYVZatwSVzumKInB2U45y4yDEexr2i/wwan+C4Mzg1c1L9JFNz0ABChU</source>
+  </file>
+  <file path="src/AppBundle/Tests/Controller/DefaultControllerTest.php" generated-path="src.AppBundle.Tests.Controller.DefaultControllerTest.html" hash="ad48de18974f9b34b431e1e7c9055adb" package="Default">
+    <docblock line="0">
+      <description></description>
+      <long-description></long-description>
+      <tag name="package" line="0" description="Default"/>
+    </docblock>
+    <namespace-alias name="WebTestCase">\Symfony\Bundle\FrameworkBundle\Test\WebTestCase</namespace-alias>
+    <class final="false" abstract="false" namespace="AppBundle\Tests\Controller" line="7" package="Default">
+      <extends>\Symfony\Bundle\FrameworkBundle\Test\WebTestCase</extends>
+      <name>DefaultControllerTest</name>
+      <full_name>\AppBundle\Tests\Controller\DefaultControllerTest</full_name>
+      <docblock line="7">
+        <description></description>
+        <long-description></long-description>
+        <tag name="package" line="7" description="Default"/>
+      </docblock>
+      <method final="false" abstract="false" static="false" visibility="public" namespace="AppBundle\Tests\Controller" line="9" package="Default">
+        <name>testIndex</name>
+        <full_name>\AppBundle\Tests\Controller\DefaultControllerTest::testIndex()</full_name>
+        <docblock line="9">
+          <description></description>
+          <long-description></long-description>
+        </docblock>
+      </method>
+    </class>
+    <parse_markers>
+      <error line="0" code="PPC:ERR-50000">No summary was found for this file</error>
+      <error line="7" code="PPC:ERR-50005">No summary for class ""</error>
+      <error line="9" code="PPC:ERR-50008">No summary for method ""</error>
+    </parse_markers>
+    <source>eJxtkE1PAjEQhu/9FQ0x2W4CgXhEXaMrflyFxMteSncWNnbb0pkGiOG/O4sYMHEuTWfe95mP2/uwDkI43QEGbUA+hPCYXG2hWgASVqV3FL21EG+ESAhyvu8a7/bVSfUc2br18fPCVX3Asn9LjcAuYzWifIJGJ0tnXq+QsCNwNcoLh/gSkiOkpW2NbJIz1Honictvroadyo/1H1UfV8a24EjeSSRNrZlOTQRNUB7TKucRztKot9ybtSfXqIiwScxW2ctskQ1lNtYhjGGnu2Ah+2OmdYujgpeBSLNN0hbV9WQyPKNWQO98R+8QVH78znmihKWvOcGsf1GLmED9TjYqmtYSRJWtqbNTw+fSrUM1ePUdBL2CQZ4x2vjUryYLOTlhD+IgvgFZtJXj</source>
+  </file>
+  <file path="src/Acme/DemoBundle/EventListener/ControllerListener.php" generated-path="src.Acme.DemoBundle.EventListener.ControllerListener.html" hash="1303e1e0614040da838ce99432fb3e1b" package="Default">
+    <docblock line="0">
+      <description></description>
+      <long-description></long-description>
+      <tag name="package" line="0" description="Default"/>
+    </docblock>
+    <namespace-alias name="HttpKernelInterface">\Symfony\Component\HttpKernel\HttpKernelInterface</namespace-alias>
+    <namespace-alias name="FilterControllerEvent">\Symfony\Component\HttpKernel\Event\FilterControllerEvent</namespace-alias>
+    <namespace-alias name="DemoExtension">\Acme\DemoBundle\Twig\Extension\DemoExtension</namespace-alias>
+    <class final="false" abstract="false" namespace="Acme\DemoBundle\EventListener" line="9" package="Default">
+      <extends/>
+      <name>ControllerListener</name>
+      <full_name>\Acme\DemoBundle\EventListener\ControllerListener</full_name>
+      <docblock line="9">
+        <description></description>
+        <long-description></long-description>
+        <tag name="package" line="9" description="Default"/>
+      </docblock>
+      <property static="false" visibility="protected" namespace="Acme\DemoBundle\EventListener" line="11" package="Default">
+        <name>$extension</name>
+        <full_name>\Acme\DemoBundle\EventListener\ControllerListener::extension</full_name>
+        <default></default>
+        <docblock line="11">
+          <description></description>
+          <long-description></long-description>
+        </docblock>
+      </property>
+      <method final="false" abstract="false" static="false" visibility="public" namespace="Acme\DemoBundle\EventListener" line="13" package="Default">
+        <name>__construct</name>
+        <full_name>\Acme\DemoBundle\EventListener\ControllerListener::__construct()</full_name>
+        <docblock line="13">
+          <description></description>
+          <long-description></long-description>
+        </docblock>
+        <argument line="0" by_reference="false">
+          <name>$extension</name>
+          <default></default>
+          <type>\Acme\DemoBundle\Twig\Extension\DemoExtension</type>
+        </argument>
+      </method>
+      <method final="false" abstract="false" static="false" visibility="public" namespace="Acme\DemoBundle\EventListener" line="18" package="Default">
+        <name>onKernelController</name>
+        <full_name>\Acme\DemoBundle\EventListener\ControllerListener::onKernelController()</full_name>
+        <docblock line="18">
+          <description></description>
+          <long-description></long-description>
+        </docblock>
+        <argument line="0" by_reference="false">
+          <name>$event</name>
+          <default></default>
+          <type>\Symfony\Component\HttpKernel\Event\FilterControllerEvent</type>
+        </argument>
+      </method>
+    </class>
+    <parse_markers>
+      <error line="0" code="PPC:ERR-50000">No summary was found for this file</error>
+      <error line="9" code="PPC:ERR-50005">No summary for class ""</error>
+      <error line="13" code="PPC:ERR-50015">Argument $extension is missing from the Docblock of __construct</error>
+      <error line="13" code="PPC:ERR-50008">No summary for method ""</error>
+      <error line="18" code="PPC:ERR-50015">Argument $event is missing from the Docblock of onKernelController</error>
+      <error line="18" code="PPC:ERR-50008">No summary for method ""</error>
+      <error line="11" code="PPC:ERR-50007">No summary for property $extension</error>
+    </parse_markers>
+    <source>eJyFUU9PwjAUv/dT9MBhO+wLMIdBnNGoB2HelhAob9Cke63tm0rMvrtlQyhkib20fb/+/rzXm1uzM4zhqgZnVgL4VNRQ3kOt7xrcKCjzT0B6kY4AwaaMNQ74Yl9XGvflTNdGo8fLRyLzDBZBBccnJLCVF03/Z3U25YNUnjLTSFYrBbar9uzrXMWX3Jb5t4/lpMYOOd18TKFWzvGz0l8H7Idxv4zVBIJgw0cQsDqoWSspeNWgIF/ly6XQ6Mg2gqILl4Aad8xe+rBGtJMumZxwnl34HJ60w24a+4Gck0eDQ/F6h+3aWFY8GviA8fh1uijy+XKev73ni4JnWXZUSCZboDl8NOCo2BuI4jjQG2ommTigIF+gE1TjOD2ptMeOW/YLH9/Ulg==</source>
+  </file>
+  <file path="src/Acme/DemoBundle/Command/HelloWorldCommand.php" generated-path="src.Acme.DemoBundle.Command.HelloWorldCommand.html" hash="44158c25c48fe4ad38b6d0f9ea16dbd1" package="Default">
+    <docblock line="0">
+      <description></description>
+      <long-description></long-description>
+      <tag name="package" line="0" description="Default"/>
+    </docblock>
+    <namespace-alias name="Command">\Symfony\Component\Console\Command\Command</namespace-alias>
+    <namespace-alias name="InputArgument">\Symfony\Component\Console\Input\InputArgument</namespace-alias>
+    <namespace-alias name="InputInterface">\Symfony\Component\Console\Input\InputInterface</namespace-alias>
+    <namespace-alias name="OutputInterface">\Symfony\Component\Console\Output\OutputInterface</namespace-alias>
+    <class final="false" abstract="false" namespace="Acme\DemoBundle\Command" line="18" package="Default">
+      <extends>\Symfony\Component\Console\Command\Command</extends>
+      <name>HelloWorldCommand</name>
+      <full_name>\Acme\DemoBundle\Command\HelloWorldCommand</full_name>
+      <docblock line="18">
+        <description>Hello World command for demo purposes.</description>
+        <long-description>You could also extend from Symfony\Bundle\FrameworkBundle\Command\ContainerAwareCommand
+to get access to the container via $this-&gt;getContainer().</long-description>
+        <tag name="author" line="18" description="Tobias Schultze &lt;http://tobion.de&gt;"/>
+        <tag name="package" line="18" description="Default"/>
+      </docblock>
+      <method final="false" abstract="false" static="false" visibility="protected" namespace="Acme\DemoBundle\Command" line="23" package="Default">
+        <name>configure</name>
+        <full_name>\Acme\DemoBundle\Command\HelloWorldCommand::configure()</full_name>
+        <docblock line="23">
+          <description>{@inheritdoc}</description>
+          <long-description></long-description>
+        </docblock>
+      </method>
+      <method final="false" abstract="false" static="false" visibility="protected" namespace="Acme\DemoBundle\Command" line="44" package="Default">
+        <name>execute</name>
+        <full_name>\Acme\DemoBundle\Command\HelloWorldCommand::execute()</full_name>
+        <docblock line="44">
+          <description>{@inheritdoc}</description>
+          <long-description></long-description>
+        </docblock>
+        <argument line="0" by_reference="false">
+          <name>$input</name>
+          <default></default>
+          <type>\Symfony\Component\Console\Input\InputInterface</type>
+        </argument>
+        <argument line="0" by_reference="false">
+          <name>$output</name>
+          <default></default>
+          <type>\Symfony\Component\Console\Output\OutputInterface</type>
+        </argument>
+      </method>
+    </class>
+    <parse_markers>
+      <error line="0" code="PPC:ERR-50000">No summary was found for this file</error>
+      <error line="44" code="PPC:ERR-50015">Argument $input is missing from the Docblock of execute</error>
+      <error line="44" code="PPC:ERR-50015">Argument $output is missing from the Docblock of execute</error>
+    </parse_markers>
+    <source>eJylU21r2zAQ/q5fcYMWO6GNv6cma7aurDCaQQtlUBiKfK7FbEnopWlW+t93kp00WcZemD7Y1vm5u+e5l/KtaQxjinfoDBcIc9Hh/QV2+l1QVYv373XXcVWdMRYcws26q7VaR6vRCpWnL+X0K+4V/3v4lTLB98+5fQgd/fsHlyvl0dZE908+i+CjU//a8WLFeMxgDB+xbTXcadtWIHrmUGsLFRUATLBGO3QTQkbwFx0IFAjKW6cBnzxGuNXdlsFQtEtL9Vxp+22/iJGW51Khna+4xcEaQ3sND+iBC4HOxZtvkHINaHiUHI58I93pjGDbKPloQ+2cB98Q71u9lNzBjWhC678jlI33ZloUnuxaTSqcEbpgouWUJolP2gcmgyQHG2bPDOikWsUzhudzqRq00ldavAzGIr2N1R6FRypIUMJTtsi/lg/BYj5KkD5aPEnL9hbP6cyhv6aq5RmnCZw2kVs2OsRcoBNWmpggz3bbh0+8My1u2njgy6tqM2l5tmp0dgJ74zedLj7fXi2u559OILtrdOqJRfSTLBpijl/xIQomL8vyw+KS3VLTSqlqPTseWEziYh2XRTJuJyyFdeB0h0tdrYEah49o1/EyZawPQXsJ2zB1aNuvu7FYSqZTHXgLfBABzqCQtUQHqx0JfxkULvlSomJRy67Q0Vm6vrD/Ggd8QhE85vsbDEcy3k/gpx2FI50MB6PTm09nK0qLrcqdsVL5ejMMZVRHlZgdu7LYfL+hFvZ50gLtz8FotNX3wn4ASsapCA==</source>
+  </file>
+  <file path="src/Acme/DemoBundle/Controller/SecuredController.php" generated-path="src.Acme.DemoBundle.Controller.SecuredController.html" hash="0edb9711ee7d7a939699010365d744f7" package="Default">
+    <docblock line="0">
+      <description></description>
+      <long-description></long-description>
+      <tag name="package" line="0" description="Default"/>
+    </docblock>
+    <namespace-alias name="Request">\Symfony\Component\HttpFoundation\Request</namespace-alias>
+    <namespace-alias name="SecurityContext">\Symfony\Component\Security\Core\SecurityContext</namespace-alias>
+    <namespace-alias name="Controller">\Symfony\Bundle\FrameworkBundle\Controller\Controller</namespace-alias>
+    <namespace-alias name="Route">\Sensio\Bundle\FrameworkExtraBundle\Configuration\Route</namespace-alias>
+    <namespace-alias name="Template">\Sensio\Bundle\FrameworkExtraBundle\Configuration\Template</namespace-alias>
+    <namespace-alias name="Security">\Sensio\Bundle\FrameworkExtraBundle\Configuration\Security</namespace-alias>
+    <class final="false" abstract="false" namespace="Acme\DemoBundle\Controller" line="15" package="Default">
+      <extends>\Symfony\Bundle\FrameworkBundle\Controller\Controller</extends>
+      <name>SecuredController</name>
+      <full_name>\Acme\DemoBundle\Controller\SecuredController</full_name>
+      <docblock line="15">
+        <description></description>
+        <long-description></long-description>
+        <tag name="Route" line="15" description="(&quot;/demo/secured&quot;)"/>
+        <tag name="package" line="15" description="Default"/>
+      </docblock>
+      <method final="false" abstract="false" static="false" visibility="public" namespace="Acme\DemoBundle\Controller" line="21" package="Default">
+        <name>loginAction</name>
+        <full_name>\Acme\DemoBundle\Controller\SecuredController::loginAction()</full_name>
+        <docblock line="21">
+          <description></description>
+          <long-description></long-description>
+          <tag name="Route" line="21" description="(&quot;/login&quot;, name=&quot;_demo_login&quot;)"/>
+          <tag name="Template" line="21" description="()"/>
+        </docblock>
+        <argument line="0" by_reference="false">
+          <name>$request</name>
+          <default></default>
+          <type>\Symfony\Component\HttpFoundation\Request</type>
+        </argument>
+      </method>
+      <method final="false" abstract="false" static="false" visibility="public" namespace="Acme\DemoBundle\Controller" line="38" package="Default">
+        <name>securityCheckAction</name>
+        <full_name>\Acme\DemoBundle\Controller\SecuredController::securityCheckAction()</full_name>
+        <docblock line="38">
+          <description></description>
+          <long-description></long-description>
+          <tag name="Route" line="38" description="(&quot;/login_check&quot;, name=&quot;_demo_security_check&quot;)"/>
+        </docblock>
+      </method>
+      <method final="false" abstract="false" static="false" visibility="public" namespace="Acme\DemoBundle\Controller" line="46" package="Default">
+        <name>logoutAction</name>
+        <full_name>\Acme\DemoBundle\Controller\SecuredController::logoutAction()</full_name>
+        <docblock line="46">
+          <description></description>
+          <long-description></long-description>
+          <tag name="Route" line="46" description="(&quot;/logout&quot;, name=&quot;_demo_logout&quot;)"/>
+        </docblock>
+      </method>
+      <method final="false" abstract="false" static="false" visibility="public" namespace="Acme\DemoBundle\Controller" line="56" package="Default">
+        <name>helloAction</name>
+        <full_name>\Acme\DemoBundle\Controller\SecuredController::helloAction()</full_name>
+        <docblock line="56">
+          <description></description>
+          <long-description></long-description>
+          <tag name="Route" line="56" description="(&quot;/hello&quot;, defaults={&quot;name&quot;=&quot;World&quot;}),"/>
+          <tag name="Route" line="56" description="(&quot;/hello/{name}&quot;, name=&quot;_demo_secured_hello&quot;)"/>
+          <tag name="Template" line="56" description="()"/>
+        </docblock>
+        <argument line="0" by_reference="false">
+          <name>$name</name>
+          <default></default>
+          <type/>
+        </argument>
+      </method>
+      <method final="false" abstract="false" static="false" visibility="public" namespace="Acme\DemoBundle\Controller" line="66" package="Default">
+        <name>helloadminAction</name>
+        <full_name>\Acme\DemoBundle\Controller\SecuredController::helloadminAction()</full_name>
+        <docblock line="66">
+          <description></description>
+          <long-description></long-description>
+          <tag name="Route" line="66" description="(&quot;/hello/admin/{name}&quot;, name=&quot;_demo_secured_hello_admin&quot;)"/>
+          <tag name="Security" line="66" description="(&quot;is_granted('ROLE_ADMIN')&quot;)"/>
+          <tag name="Template" line="66" description="()"/>
+        </docblock>
+        <argument line="0" by_reference="false">
+          <name>$name</name>
+          <default></default>
+          <type/>
+        </argument>
+      </method>
+    </class>
+    <parse_markers>
+      <error line="0" code="PPC:ERR-50000">No summary was found for this file</error>
+      <error line="15" code="PPC:ERR-50005">No summary for class ""</error>
+      <error line="21" code="PPC:ERR-50015">Argument $request is missing from the Docblock of loginAction</error>
+      <error line="21" code="PPC:ERR-50008">No summary for method ""</error>
+      <error line="38" code="PPC:ERR-50008">No summary for method ""</error>
+      <error line="46" code="PPC:ERR-50008">No summary for method ""</error>
+      <error line="56" code="PPC:ERR-50015">Argument $name is missing from the Docblock of helloAction</error>
+      <error line="56" code="PPC:ERR-50008">No summary for method ""</error>
+      <error line="66" code="PPC:ERR-50015">Argument $name is missing from the Docblock of helloadminAction</error>
+      <error line="66" code="PPC:ERR-50008">No summary for method ""</error>
+    </parse_markers>
+    <source>eJy9U9tq4zAQffdXCBOwHVr83myy601TGmhTsF32JWBUe5KIypJXkmlDyL+v5Euu7SbNwurF8ujMmTOao2/fi0VhWQznIAucAgrSHKa3kPOfJcsoTIecKcEpBdGzrFICipb5jLOlPsgLzoCp6b1SxR3XcKwIZ9MQfpcgVe8TdARpKYgyIQGbP1MG3g+SGgl3Qqt74+L1SNKeuioTmCT8KHH0rgTeZs/IvBSNWF4quDA3hryg+OL0tnV9r363a6Eu+lGpcW0/0/fvS3MOme3pI99KKZYSRXVs2zbSlwYsk2gbslYW0qviNGuHl/I5YfYVMuPu24kpk9Qxb4Ntu3LbkF99i/KFkhTNSpYa9ahKC6q920wcdUS9qTNrGWaRGXLbs+sBVkqQFy1IXg8WWLoHFri5CZ7j+9EkHg+DePw0SUZh+BR63g6fWR0QggvURx8Tz0GdSdzb0K4RUD3Ik3U0dwRSms69CytZm60AVQqGsBB46e5VdvTEVaKtJcy4HNQffE3DQxDFyXM0CifB48i72ueuunI2/4a7Cm1hjdxG6qduStIFpK8HnpKNlubw705qwUODbRx16CDfR/ECNlBE8VJ7/41QiohuV6RQKKQWRKLmhs7QrnfHT8EETxpfg/6XzgVQyrXMDGa4pEr2V7ZRbPftX1zQzF63gz3M8VcGt/5oMJAlNe2XH32V1rTeMbyH/e+52dn6tsKeNFQtHGc5YWfITyrgThPtC3BtIpO5wPrCM9cJnx5GSXD7OJ443oUdV4X+ue219QcKRFEH</source>
+  </file>
+  <file path="src/Acme/DemoBundle/Controller/DemoController.php" generated-path="src.Acme.DemoBundle.Controller.DemoController.html" hash="7abffdac2d1379b1a9a93bbebd956a35" package="Default">
+    <docblock line="0">
+      <description></description>
+      <long-description></long-description>
+      <tag name="package" line="0" description="Default"/>
+    </docblock>
+    <namespace-alias name="Controller">\Symfony\Bundle\FrameworkBundle\Controller\Controller</namespace-alias>
+    <namespace-alias name="RedirectResponse">\Symfony\Component\HttpFoundation\RedirectResponse</namespace-alias>
+    <namespace-alias name="Request">\Symfony\Component\HttpFoundation\Request</namespace-alias>
+    <namespace-alias name="ContactType">\Acme\DemoBundle\Form\ContactType</namespace-alias>
+    <namespace-alias name="Route">\Sensio\Bundle\FrameworkExtraBundle\Configuration\Route</namespace-alias>
+    <namespace-alias name="Template">\Sensio\Bundle\FrameworkExtraBundle\Configuration\Template</namespace-alias>
+    <class final="false" abstract="false" namespace="Acme\DemoBundle\Controller" line="14" package="Default">
+      <extends>\Symfony\Bundle\FrameworkBundle\Controller\Controller</extends>
+      <name>DemoController</name>
+      <full_name>\Acme\DemoBundle\Controller\DemoController</full_name>
+      <docblock line="14">
+        <description></description>
+        <long-description></long-description>
+        <tag name="package" line="14" description="Default"/>
+      </docblock>
+      <method final="false" abstract="false" static="false" visibility="public" namespace="Acme\DemoBundle\Controller" line="20" package="Default">
+        <name>indexAction</name>
+        <full_name>\Acme\DemoBundle\Controller\DemoController::indexAction()</full_name>
+        <docblock line="20">
+          <description></description>
+          <long-description></long-description>
+          <tag name="Route" line="20" description="(&quot;/&quot;, name=&quot;_demo&quot;)"/>
+          <tag name="Template" line="20" description="()"/>
+        </docblock>
+      </method>
+      <method final="false" abstract="false" static="false" visibility="public" namespace="Acme\DemoBundle\Controller" line="29" package="Default">
+        <name>helloAction</name>
+        <full_name>\Acme\DemoBundle\Controller\DemoController::helloAction()</full_name>
+        <docblock line="29">
+          <description></description>
+          <long-description></long-description>
+          <tag name="Route" line="29" description="(&quot;/hello/{name}&quot;, name=&quot;_demo_hello&quot;)"/>
+          <tag name="Template" line="29" description="()"/>
+        </docblock>
+        <argument line="0" by_reference="false">
+          <name>$name</name>
+          <default></default>
+          <type/>
+        </argument>
+      </method>
+      <method final="false" abstract="false" static="false" visibility="public" namespace="Acme\DemoBundle\Controller" line="38" package="Default">
+        <name>contactAction</name>
+        <full_name>\Acme\DemoBundle\Controller\DemoController::contactAction()</full_name>
+        <docblock line="38">
+          <description></description>
+          <long-description></long-description>
+          <tag name="Route" line="38" description="(&quot;/contact&quot;, name=&quot;_demo_contact&quot;)"/>
+          <tag name="Template" line="38" description="()"/>
+        </docblock>
+        <argument line="0" by_reference="false">
+          <name>$request</name>
+          <default></default>
+          <type>\Symfony\Component\HttpFoundation\Request</type>
+        </argument>
+      </method>
+    </class>
+    <parse_markers>
+      <error line="0" code="PPC:ERR-50000">No summary was found for this file</error>
+      <error line="14" code="PPC:ERR-50005">No summary for class ""</error>
+      <error line="20" code="PPC:ERR-50008">No summary for method ""</error>
+      <error line="29" code="PPC:ERR-50015">Argument $name is missing from the Docblock of helloAction</error>
+      <error line="29" code="PPC:ERR-50008">No summary for method ""</error>
+      <error line="38" code="PPC:ERR-50015">Argument $request is missing from the Docblock of contactAction</error>
+      <error line="38" code="PPC:ERR-50008">No summary for method ""</error>
+    </parse_markers>
+    <source>eJydlMlu2zAQhu96iqlhQLKRWPe6dpukNXrpxUlzMhAw1NgiIpEqScE2Ar97h4vlDWmbChAkUrN8M/xHnz43ZZMkktVoGsYRbniNi69Yq9tWFhUu7pS0WlUV6nGStAbhflsvldwu4veZJte10i8X9ieux553qm6URGkX361tZoocmRVKLuZYCI3czolFSYP/7ParRWOD9Tn/TOnakzBuH7YNxUzyHGyJZCsooLZuAb0vc9Va7AGTBS0esG4qFtZSWZ/HBBqURqiL6r9trGaHFizFqtWRzsUd/5/vHoOgecWMAVfYoa2AG4uyMHDYSl4ToCsfDv0ThhAKy3p57wrcMU96TwVF6Q06g32WbL+V+2fTPleCw7KV3MGAkAVubvx7tAy53KXRtloC05pts8HY7++SN1FKrCqVvzqc3SnWk//0fjjvFuH6Lt4fCVNnkcJkCsH2r8A8COiMdb/7btroGHmjfqGvw8s5en9JGoYJ9G0pzPWUa6QMTteZxDUcaTsbxEo6r+tpyZyuYoqsSzFOOkOxhCwaC/PIKlFQnKP0PljNhBNcB7FCm6VhMz0O5huYw2gEhhreAAP6sRi2Qj9YhtQKwp5blzTPH/PchEEfcVXnheI5b7Wmcafmq5dnunN0CUelravThPuqPNY95fMS9asZjU15y1ZuaRwzTbPgmF5B+iOCEZT9cFFE1Ivr8PlvKet6IJEGFX/qKku9ItLjA9glb4jP9TqIL3Q9HOijwHV3gLtkl/wGtK/BTg==</source>
+  </file>
+  <file path="src/Acme/DemoBundle/Controller/WelcomeController.php" generated-path="src.Acme.DemoBundle.Controller.WelcomeController.html" hash="951fa02354b9fcc7f23579380b3d00fb" package="Default">
+    <docblock line="0">
+      <description></description>
+      <long-description></long-description>
+      <tag name="package" line="0" description="Default"/>
+    </docblock>
+    <namespace-alias name="Controller">\Symfony\Bundle\FrameworkBundle\Controller\Controller</namespace-alias>
+    <class final="false" abstract="false" namespace="Acme\DemoBundle\Controller" line="7" package="Default">
+      <extends>\Symfony\Bundle\FrameworkBundle\Controller\Controller</extends>
+      <name>WelcomeController</name>
+      <full_name>\Acme\DemoBundle\Controller\WelcomeController</full_name>
+      <docblock line="7">
+        <description></description>
+        <long-description></long-description>
+        <tag name="package" line="7" description="Default"/>
+      </docblock>
+      <method final="false" abstract="false" static="false" visibility="public" namespace="Acme\DemoBundle\Controller" line="9" package="Default">
+        <name>indexAction</name>
+        <full_name>\Acme\DemoBundle\Controller\WelcomeController::indexAction()</full_name>
+        <docblock line="9">
+          <description></description>
+          <long-description></long-description>
+        </docblock>
+      </method>
+    </class>
+    <parse_markers>
+      <error line="0" code="PPC:ERR-50000">No summary was found for this file</error>
+      <error line="7" code="PPC:ERR-50005">No summary for class ""</error>
+      <error line="9" code="PPC:ERR-50008">No summary for method ""</error>
+    </parse_markers>
+    <source>eJxlUMtOwzAQvPsr9oCUphLpvUXQAuIHqMQlF9fe1hb2OvKDtEL9dxwTNUHsadY7Ozueh6dOdYwRtxg6LhB2wmL7itY9J5IG2xdH0Ttj0G8YSwHh/WKPji7tOH/zebV3/vMf/++qMDwE+EAjnMVpAniOSDLA9MS+GeTq0sFoAcdEImpHoEnieVfwoi6MX95Qq+UNwhL2CoEXYhXgS2MPghMcEHy+hB4lpKDpNLaLGixG5eRcwnnY7tF2hsesReQiLyZ4AJmzoRB9nshsCoasJvPNTGUGV+zWeIzJE9xFpcP94+ihGmKfUl+POa3LpxsVrWlir09VvSk6V3ZlP1tIjq8=</source>
+  </file>
+  <file path="src/Acme/DemoBundle/AcmeDemoBundle.php" generated-path="src.Acme.DemoBundle.AcmeDemoBundle.html" hash="e07fc2a85dc56eb02038884c5d667119" package="Default">
+    <docblock line="0">
+      <description></description>
+      <long-description></long-description>
+      <tag name="package" line="0" description="Default"/>
+    </docblock>
+    <namespace-alias name="Bundle">\Symfony\Component\HttpKernel\Bundle\Bundle</namespace-alias>
+    <class final="false" abstract="false" namespace="Acme\DemoBundle" line="7" package="Default">
+      <extends>\Symfony\Component\HttpKernel\Bundle\Bundle</extends>
+      <name>AcmeDemoBundle</name>
+      <full_name>\Acme\DemoBundle\AcmeDemoBundle</full_name>
+      <docblock line="7">
+        <description></description>
+        <long-description></long-description>
+        <tag name="package" line="7" description="Default"/>
+      </docblock>
+    </class>
+    <parse_markers>
+      <error line="0" code="PPC:ERR-50000">No summary was found for this file</error>
+      <error line="7" code="PPC:ERR-50005">No summary for class ""</error>
+    </parse_markers>
+    <source>eJxFjLEKg0AQBfv9ivuPBILGImBpu81xvmBxu7dkT1DEfxcUTDkwM8+XTUakUeAWE0KTBNxBSjvrmPEgmh1hWOVbdOV3ESsKrfyp1Xr8FJkvk+8g5eh+jv6fgKVCRw8X0kY7HdpbLGQ=</source>
+  </file>
+  <file path="src/Acme/DemoBundle/Twig/Extension/DemoExtension.php" generated-path="src.Acme.DemoBundle.Twig.Extension.DemoExtension.html" hash="ee54cf5af25a96189d16f99f977e91fb" package="Default">
+    <docblock line="0">
+      <description></description>
+      <long-description></long-description>
+      <tag name="package" line="0" description="Default"/>
+    </docblock>
+    <namespace-alias name="ClassUtils">\CG\Core\ClassUtils</namespace-alias>
+    <class final="false" abstract="false" namespace="Acme\DemoBundle\Twig\Extension" line="7" package="Default">
+      <extends>\Twig_Extension</extends>
+      <name>DemoExtension</name>
+      <full_name>\Acme\DemoBundle\Twig\Extension\DemoExtension</full_name>
+      <docblock line="7">
+        <description></description>
+        <long-description></long-description>
+        <tag name="package" line="7" description="Default"/>
+      </docblock>
+      <property static="false" visibility="protected" namespace="Acme\DemoBundle\Twig\Extension" line="9" package="Default">
+        <name>$loader</name>
+        <full_name>\Acme\DemoBundle\Twig\Extension\DemoExtension::loader</full_name>
+        <default></default>
+        <docblock line="9">
+          <description></description>
+          <long-description></long-description>
+        </docblock>
+      </property>
+      <property static="false" visibility="protected" namespace="Acme\DemoBundle\Twig\Extension" line="10" package="Default">
+        <name>$controller</name>
+        <full_name>\Acme\DemoBundle\Twig\Extension\DemoExtension::controller</full_name>
+        <default></default>
+        <docblock line="10">
+          <description></description>
+          <long-description></long-description>
+        </docblock>
+      </property>
+      <method final="false" abstract="false" static="false" visibility="public" namespace="Acme\DemoBundle\Twig\Extension" line="12" package="Default">
+        <name>__construct</name>
+        <full_name>\Acme\DemoBundle\Twig\Extension\DemoExtension::__construct()</full_name>
+        <docblock line="12">
+          <description></description>
+          <long-description></long-description>
+        </docblock>
+        <argument line="0" by_reference="false">
+          <name>$loader</name>
+          <default></default>
+          <type>\Twig_LoaderInterface</type>
+        </argument>
+      </method>
+      <method final="false" abstract="false" static="false" visibility="public" namespace="Acme\DemoBundle\Twig\Extension" line="17" package="Default">
+        <name>setController</name>
+        <full_name>\Acme\DemoBundle\Twig\Extension\DemoExtension::setController()</full_name>
+        <docblock line="17">
+          <description></description>
+          <long-description></long-description>
+        </docblock>
+        <argument line="0" by_reference="false">
+          <name>$controller</name>
+          <default></default>
+          <type/>
+        </argument>
+      </method>
+      <method final="false" abstract="false" static="false" visibility="public" namespace="Acme\DemoBundle\Twig\Extension" line="25" package="Default">
+        <name>getFunctions</name>
+        <full_name>\Acme\DemoBundle\Twig\Extension\DemoExtension::getFunctions()</full_name>
+        <docblock line="25">
+          <description>{@inheritdoc}</description>
+          <long-description></long-description>
+        </docblock>
+      </method>
+      <method final="false" abstract="false" static="false" visibility="public" namespace="Acme\DemoBundle\Twig\Extension" line="32" package="Default">
+        <name>getCode</name>
+        <full_name>\Acme\DemoBundle\Twig\Extension\DemoExtension::getCode()</full_name>
+        <docblock line="32">
+          <description></description>
+          <long-description></long-description>
+        </docblock>
+        <argument line="0" by_reference="false">
+          <name>$template</name>
+          <default></default>
+          <type/>
+        </argument>
+      </method>
+      <method final="false" abstract="false" static="false" visibility="protected" namespace="Acme\DemoBundle\Twig\Extension" line="52" package="Default">
+        <name>getControllerCode</name>
+        <full_name>\Acme\DemoBundle\Twig\Extension\DemoExtension::getControllerCode()</full_name>
+        <docblock line="52">
+          <description></description>
+          <long-description></long-description>
+        </docblock>
+      </method>
+      <method final="false" abstract="false" static="false" visibility="protected" namespace="Acme\DemoBundle\Twig\Extension" line="67" package="Default">
+        <name>getTemplateCode</name>
+        <full_name>\Acme\DemoBundle\Twig\Extension\DemoExtension::getTemplateCode()</full_name>
+        <docblock line="67">
+          <description></description>
+          <long-description></long-description>
+        </docblock>
+        <argument line="0" by_reference="false">
+          <name>$template</name>
+          <default></default>
+          <type/>
+        </argument>
+      </method>
+      <method final="false" abstract="false" static="false" visibility="public" namespace="Acme\DemoBundle\Twig\Extension" line="77" package="Default">
+        <name>getName</name>
+        <full_name>\Acme\DemoBundle\Twig\Extension\DemoExtension::getName()</full_name>
+        <docblock line="77">
+          <description>Returns the name of the extension.</description>
+          <long-description></long-description>
+          <tag name="return" line="77" description="The extension name" type="string">
+            <type>string</type>
+          </tag>
+        </docblock>
+      </method>
+    </class>
+    <parse_markers>
+      <error line="0" code="PPC:ERR-50000">No summary was found for this file</error>
+      <error line="7" code="PPC:ERR-50005">No summary for class ""</error>
+      <error line="12" code="PPC:ERR-50015">Argument $loader is missing from the Docblock of __construct</error>
+      <error line="12" code="PPC:ERR-50008">No summary for method ""</error>
+      <error line="17" code="PPC:ERR-50015">Argument $controller is missing from the Docblock of setController</error>
+      <error line="17" code="PPC:ERR-50008">No summary for method ""</error>
+      <error line="32" code="PPC:ERR-50015">Argument $template is missing from the Docblock of getCode</error>
+      <error line="32" code="PPC:ERR-50008">No summary for method ""</error>
+      <error line="52" code="PPC:ERR-50008">No summary for method ""</error>
+      <error line="67" code="PPC:ERR-50015">Argument $template is missing from the Docblock of getTemplateCode</error>
+      <error line="67" code="PPC:ERR-50008">No summary for method ""</error>
+      <error line="9" code="PPC:ERR-50007">No summary for property $loader</error>
+      <error line="10" code="PPC:ERR-50007">No summary for property $controller</error>
+    </parse_markers>
+    <source>eJyNVW1v2zYQ/q5fQXhpKaWJ3XwbEtnt4jrDgK7FGudTXQiKdLaIUaRA0muDwP99R4qSKcfeKiAJc7y7516eO6bvmqqJIpHXoJu8APJbUcPqA9TyditKDqvld7ZZLX4YEJpJcRNFWw1k/vtqLhWs5jzX+sEwrvGisP8Qa9qrE7CnUhPnJuvl0XNE8GuUNFAYKMkZl3kJ6uZQXEhhlOTcXrV320fOCrLeisJYgCxDFW3UtjBxC/LRefpDGFBrm5B3nTjzFtd+Z6Zi+nLWXpLpMILdcTANZt4HFAfBnXC+V7AAYS4ByOT8vLU7J8/vmahAMVPKYueFk6ORbMDc+bOOD9EVmK0SJFcqf4p7qf0EfPetuGd1w6HzEdNClkAvvI0L/4LQjc0X5Ul3QZnOdL4GSqazTlSZmtMkSS56pOQ/i+idIghgCLmBw/AnE1KxTcXxx2TYWiY2e4EmyFdioyVS8CfC1oSmlsOUmHxDGN4r0CDMeN+MQRsOXccjZz4a+55twh67QDF75Bf4rF56RD+ZAkylgJimOEVIFPPEYToqJJfqmvzyFr/b29HsNTc3Fuy1eNTNzcvf6cRaz7AP9JQK3oW881PRcs7X0yaJPdENFCznRZUrHe+TW3qtgx5ckMWnZfbXw+fl4h7hH5Z3l7/S0D12ReFo/wPEVNA24JHL4u+j+IOSPL+yg9OaTN2fONPA1wl5tbOp2pT6OAJET+M0TRef76K0maXoVorNbN8fYrPAqrXydNLMUE/BLCgRClEQhfZdCU5ad9F4W4QfMrrfT0NSD1lzuBLa9Ti1qpk7xy+2xNe33wKWIbVjp5jBD6aNjunLtYuDF2AMcPZK19eI+aAxsBbWaQRAu4BEltBuS3yBNQeX3Amrs9ouNeVI9SeYSpZHErr6NqCo58CaceRea3qHZ/v6xMmR3lN7puOz2ql+kMVc1jUOd5yMRysxGtslZotNu9WVadw1EDsgpFVrd29yZTgTiEEuyVUvX4jyYyc9ovqGXCXJTzT+xEQdX8qDZ6eFlFtVBIaDKf3UVSaIIngwvjin2o2kLSKRa3eG7qH1W7A3eO/D8Gt1Geo6D//36rQBHc+NlrggaBfrLvoXaeaPYQ==</source>
+  </file>
+  <file path="src/Acme/DemoBundle/DependencyInjection/AcmeDemoExtension.php" generated-path="src.Acme.DemoBundle.DependencyInjection.AcmeDemoExtension.html" hash="fc15dea617d6507595e2bea6bd977b71" package="Default">
+    <docblock line="0">
+      <description></description>
+      <long-description></long-description>
+      <tag name="package" line="0" description="Default"/>
+    </docblock>
+    <namespace-alias name="ContainerBuilder">\Symfony\Component\DependencyInjection\ContainerBuilder</namespace-alias>
+    <namespace-alias name="XmlFileLoader">\Symfony\Component\DependencyInjection\Loader\XmlFileLoader</namespace-alias>
+    <namespace-alias name="Extension">\Symfony\Component\HttpKernel\DependencyInjection\Extension</namespace-alias>
+    <namespace-alias name="FileLocator">\Symfony\Component\Config\FileLocator</namespace-alias>
+    <class final="false" abstract="false" namespace="Acme\DemoBundle\DependencyInjection" line="10" package="Default">
+      <extends>\Symfony\Component\HttpKernel\DependencyInjection\Extension</extends>
+      <name>AcmeDemoExtension</name>
+      <full_name>\Acme\DemoBundle\DependencyInjection\AcmeDemoExtension</full_name>
+      <docblock line="10">
+        <description></description>
+        <long-description></long-description>
+        <tag name="package" line="10" description="Default"/>
+      </docblock>
+      <method final="false" abstract="false" static="false" visibility="public" namespace="Acme\DemoBundle\DependencyInjection" line="12" package="Default">
+        <name>load</name>
+        <full_name>\Acme\DemoBundle\DependencyInjection\AcmeDemoExtension::load()</full_name>
+        <docblock line="12">
+          <description></description>
+          <long-description></long-description>
+        </docblock>
+        <argument line="0" by_reference="false">
+          <name>$configs</name>
+          <default></default>
+          <type>array</type>
+        </argument>
+        <argument line="0" by_reference="false">
+          <name>$container</name>
+          <default></default>
+          <type>\Symfony\Component\DependencyInjection\ContainerBuilder</type>
+        </argument>
+      </method>
+      <method final="false" abstract="false" static="false" visibility="public" namespace="Acme\DemoBundle\DependencyInjection" line="18" package="Default">
+        <name>getAlias</name>
+        <full_name>\Acme\DemoBundle\DependencyInjection\AcmeDemoExtension::getAlias()</full_name>
+        <docblock line="18">
+          <description></description>
+          <long-description></long-description>
+        </docblock>
+      </method>
+    </class>
+    <parse_markers>
+      <error line="0" code="PPC:ERR-50000">No summary was found for this file</error>
+      <error line="10" code="PPC:ERR-50005">No summary for class ""</error>
+      <error line="12" code="PPC:ERR-50015">Argument $configs is missing from the Docblock of load</error>
+      <error line="12" code="PPC:ERR-50015">Argument $container is missing from the Docblock of load</error>
+      <error line="12" code="PPC:ERR-50008">No summary for method ""</error>
+      <error line="18" code="PPC:ERR-50008">No summary for method ""</error>
+    </parse_markers>
+    <source>eJyVUMlOwzAQvfsrfKiURCrpB4RFLQVRwalcOESKXGdajOyx5QUaof47jgMFqnDAp/HMvGXe+ZV5NoQgU+AM40DnXEG9BKUXAVvZlwawBeTdCl+Ae6GxIiQ4oI+d2mrs6mutjEZAP7Ybp+iZQLCLIGQLtvoH9kGziKiflLwVEobfX/g77809WAQ5SnWz94AumR/HR59bsasHIc68jkqES+ZciqRP5MhBoa9aR48d8k5ofCZspOB0GzCpUhkt58xa1tEJTwJuSk8TSaOhUySWgat/E5luphcU4Y3+yiH/Rk3T9IfzvGmWq3XTlNmsLGdrcDpYDm42WMiKojpVOLtMVjMH9lXE1XKvZPa5diCjt+3Az6VgLj81bcEHizRjMbamjbllXzwH8gEB2dfS</source>
+  </file>
+  <file path="src/Acme/DemoBundle/Form/ContactType.php" generated-path="src.Acme.DemoBundle.Form.ContactType.html" hash="72a9c308b38e7f120866c5f139d7aacd" package="Default">
+    <docblock line="0">
+      <description></description>
+      <long-description></long-description>
+      <tag name="package" line="0" description="Default"/>
+    </docblock>
+    <namespace-alias name="AbstractType">\Symfony\Component\Form\AbstractType</namespace-alias>
+    <namespace-alias name="FormBuilderInterface">\Symfony\Component\Form\FormBuilderInterface</namespace-alias>
+    <class final="false" abstract="false" namespace="Acme\DemoBundle\Form" line="8" package="Default">
+      <extends>\Symfony\Component\Form\AbstractType</extends>
+      <name>ContactType</name>
+      <full_name>\Acme\DemoBundle\Form\ContactType</full_name>
+      <docblock line="8">
+        <description></description>
+        <long-description></long-description>
+        <tag name="package" line="8" description="Default"/>
+      </docblock>
+      <method final="false" abstract="false" static="false" visibility="public" namespace="Acme\DemoBundle\Form" line="10" package="Default">
+        <name>buildForm</name>
+        <full_name>\Acme\DemoBundle\Form\ContactType::buildForm()</full_name>
+        <docblock line="10">
+          <description></description>
+          <long-description></long-description>
+        </docblock>
+        <argument line="0" by_reference="false">
+          <name>$builder</name>
+          <default></default>
+          <type>\Symfony\Component\Form\FormBuilderInterface</type>
+        </argument>
+        <argument line="0" by_reference="false">
+          <name>$options</name>
+          <default></default>
+          <type>array</type>
+        </argument>
+      </method>
+      <method final="false" abstract="false" static="false" visibility="public" namespace="Acme\DemoBundle\Form" line="16" package="Default">
+        <name>getName</name>
+        <full_name>\Acme\DemoBundle\Form\ContactType::getName()</full_name>
+        <docblock line="16">
+          <description></description>
+          <long-description></long-description>
+        </docblock>
+      </method>
+    </class>
+    <parse_markers>
+      <error line="0" code="PPC:ERR-50000">No summary was found for this file</error>
+      <error line="8" code="PPC:ERR-50005">No summary for class ""</error>
+      <error line="10" code="PPC:ERR-50015">Argument $builder is missing from the Docblock of buildForm</error>
+      <error line="10" code="PPC:ERR-50015">Argument $options is missing from the Docblock of buildForm</error>
+      <error line="10" code="PPC:ERR-50008">No summary for method ""</error>
+      <error line="16" code="PPC:ERR-50008">No summary for method ""</error>
+    </parse_markers>
+    <source>eJx9kMFKAzEQhu95ijkUdgv1CVaUtiJ48aLHvcwms3UhmYRkAi7SdzfpdkGkOocQki9ffv77x/ARlGJ0lAJqgr121D+R84fMxlL/7KPrlMqJ4G12o+e5P3oXPBPL5bLfD0kianmfA3X/gXU55Mkaii8sFMfyX1FriynB0bNcJUCfQmwS/DSrLwVlQh7spGHMrGXyDEP1VXF7yw6bYTnZAcaIM2x8qM/S9iJblHVW7u4BjWkbcjjZZgfXzbb7CyytJTxRRaWkxki40md1M/CJ5LWU3f5OEElyZGj00kOzSs7qG3AtiVU=</source>
+  </file>
+  <file path="src/Acme/DemoBundle/Tests/Controller/DemoControllerTest.php" generated-path="src.Acme.DemoBundle.Tests.Controller.DemoControllerTest.html" hash="309ed283d13f8bd496f1a75b8c28b70c" package="Default">
+    <docblock line="0">
+      <description></description>
+      <long-description></long-description>
+      <tag name="package" line="0" description="Default"/>
+    </docblock>
+    <namespace-alias name="WebTestCase">\Symfony\Bundle\FrameworkBundle\Test\WebTestCase</namespace-alias>
+    <class final="false" abstract="false" namespace="Acme\DemoBundle\Tests\Controller" line="7" package="Default">
+      <extends>\Symfony\Bundle\FrameworkBundle\Test\WebTestCase</extends>
+      <name>DemoControllerTest</name>
+      <full_name>\Acme\DemoBundle\Tests\Controller\DemoControllerTest</full_name>
+      <docblock line="7">
+        <description></description>
+        <long-description></long-description>
+        <tag name="package" line="7" description="Default"/>
+      </docblock>
+      <method final="false" abstract="false" static="false" visibility="public" namespace="Acme\DemoBundle\Tests\Controller" line="9" package="Default">
+        <name>testIndex</name>
+        <full_name>\Acme\DemoBundle\Tests\Controller\DemoControllerTest::testIndex()</full_name>
+        <docblock line="9">
+          <description></description>
+          <long-description></long-description>
+        </docblock>
+      </method>
+      <method final="false" abstract="false" static="false" visibility="public" namespace="Acme\DemoBundle\Tests\Controller" line="18" package="Default">
+        <name>testSecureSection</name>
+        <full_name>\Acme\DemoBundle\Tests\Controller\DemoControllerTest::testSecureSection()</full_name>
+        <docblock line="18">
+          <description></description>
+          <long-description></long-description>
+        </docblock>
+      </method>
+    </class>
+    <parse_markers>
+      <error line="0" code="PPC:ERR-50000">No summary was found for this file</error>
+      <error line="7" code="PPC:ERR-50005">No summary for class ""</error>
+      <error line="9" code="PPC:ERR-50008">No summary for method ""</error>
+      <error line="18" code="PPC:ERR-50008">No summary for method ""</error>
+    </parse_markers>
+    <source>eJzFU01rGzEQve+vmIaCZIjr5uo2DonbpIWcGkMuC0HWjr3CWmmrDxxT8t870vorjkOhOWQPNjsf7828efv1oq3bojCiQd8KiXApGyy/YWOvoqk0lhP0wZdja4KzWqP7UhTRI9ytmpk1q3Jdde0IYGndYq+rvMdp+h8Lj9QltfAeEvIOLKUBHwOaysNeefGnAHraONVKwiwaGZQ1ECj901T4yHs531Wl56PUCk2Ac/BBBCWHQ+lQBBznMO8R/67UiSVxU+26qz9y+DsSNmc33yfsFNigojEHNWptB9diSkXsGUSole+PaB904SYTuUktDP98uoXvj2ZKU5yzOjR6KGlnoYznJz8SKnSoJz3W64+kjWlGYkjgT8Wru9+hjA7pN0XeosFgAHOLHoKFUCP4jAutmON/yNR1V2u57q3TFTsgo7RyNPaWUdu5Mv8mnJFL7PLXuvtwBR+njUqYW8CZdc0OML1ltM1FPGqCuYohkHzsNrUk/VMdF86JFWcPZG6XvgYG5yNgomqohlZ9aOnaZPBqL55CbHO2vQsQUZ6M5wlekWKjhHWKxhA6iwF8GgMYuwQRKWnoinTAqvcGkWSNckFMImS6zKI6zYi5DmANHjf2ONvy7Kilzz4FFTS+sHW+/odk68MxyMwLSD7e+U0rs9hRp7cj17qlMGcdukNvo5MbgCodL7XxZzd4qVAm55nhndRZD5wMCpfJO56Q9WqjVPfdPxV/AQ2gumM=</source>
+  </file>
+  <package name="Default" full_name="Default"/>
+  <package name="global" full_name="global"/>
+  <namespace name="global" full_name="global"/>
+  <namespace name="Acme" full_name="Acme">
+    <namespace name="DemoBundle" full_name="Acme\DemoBundle">
+      <namespace name="Command" full_name="Acme\DemoBundle\Command"/>
+      <namespace name="Controller" full_name="Acme\DemoBundle\Controller"/>
+      <namespace name="DependencyInjection" full_name="Acme\DemoBundle\DependencyInjection"/>
+      <namespace name="EventListener" full_name="Acme\DemoBundle\EventListener"/>
+      <namespace name="Form" full_name="Acme\DemoBundle\Form"/>
+      <namespace name="Tests" full_name="Acme\DemoBundle\Tests">
+        <namespace name="Controller" full_name="Acme\DemoBundle\Tests\Controller"/>
+      </namespace>
+      <namespace name="Twig" full_name="Acme\DemoBundle\Twig">
+        <namespace name="Extension" full_name="Acme\DemoBundle\Twig\Extension"/>
+      </namespace>
+    </namespace>
+  </namespace>
+  <namespace name="AppBundle" full_name="AppBundle">
+    <namespace name="Controller" full_name="AppBundle\Controller"/>
+    <namespace name="Tests" full_name="AppBundle\Tests">
+      <namespace name="Controller" full_name="AppBundle\Tests\Controller"/>
+    </namespace>
+  </namespace>
+  <namespace name="Blogger" full_name="Blogger">
+    <namespace name="BlogBundle" full_name="Blogger\BlogBundle">
+      <namespace name="Controller" full_name="Blogger\BlogBundle\Controller"/>
+      <namespace name="DependencyInjection" full_name="Blogger\BlogBundle\DependencyInjection"/>
+      <namespace name="Entity" full_name="Blogger\BlogBundle\Entity"/>
+      <namespace name="Form" full_name="Blogger\BlogBundle\Form"/>
+      <namespace name="Tests" full_name="Blogger\BlogBundle\Tests">
+        <namespace name="Controller" full_name="Blogger\BlogBundle\Tests\Controller"/>
+      </namespace>
+    </namespace>
+  </namespace>
+  <deprecated count="0"/>
+</project>
