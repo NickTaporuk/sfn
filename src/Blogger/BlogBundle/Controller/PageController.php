@@ -36,11 +36,23 @@ class PageController extends Controller
 
         $request = $this->getRequest();
         if ($request->getMethod() == 'POST') {
-            $form->bindRequest($request);
 
             if ($form->isValid()) {
                 // Perform some action, such as sending an email
+                /*$message = \Swift_Message::newInstance()
+                    ->setSubject('Contact enquiry from symblog')
+                    ->setFrom('enquiries@symblog.co.uk')
+                    ->setTo('nictaporuk@gmail.com')
+                    ->setBody($this->renderView('BloggerBlogBundle:Page:contactEmail.txt.twig', array('enquiry' => $enquiry)));
+                $this->get('mailer')->send($message);*/
 
+                $this->get('session')->getFlashBag()->add(
+                    'blogger-notice',
+                    'Ваш запрос успешно отправлен. Спасибо!');
+
+                // Редирект - это важно для предотвращения повторного ввода данных в форму,
+                // если пользователь обновил страницу.
+                return $this->redirect($this->generateUrl('BloggerBlogBundle_contact'));
                 // Redirect - This is important to prevent users re-posting
                 // the form if they refresh the page
                 return $this->redirect($this->generateUrl('BloggerBlogBundle_contact'));

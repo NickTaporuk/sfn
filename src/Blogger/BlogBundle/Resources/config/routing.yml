@@ -12,4 +12,4 @@ BloggerBlogBundle_contact:
     pattern:  /contacts
     defaults: { _controller: BloggerBlogBundle:Page:contact }
     requirements:
-        _method:  GET
+        _method:  GET|POST

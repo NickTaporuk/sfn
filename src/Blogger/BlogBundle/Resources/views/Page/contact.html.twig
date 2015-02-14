@@ -4,12 +4,20 @@
 {% block title %}Контакты{% endblock%}
 
 {% block body %}
+    {# rest of template ... #}
     <header>
-        <h1>Symblog контакты</h1>
+        <h1>Контакты symblog</h1>
     </header>
+
+    {% for flashMessage in app.session.flashbag.get('blogger-notice') %}
+        <div class="blogger-notice">
+            {{ flashMessage }}
+        </div>
+    {% endfor %}
 
     <p>Хотите связаться с symblog?</p>
 
+    {# rest of template ... #}
     <form action="{{ path('BloggerBlogBundle_contact') }}" method="post" {{ form_enctype(form) }} class="blogger">
         {{ form_errors(form) }}
 
